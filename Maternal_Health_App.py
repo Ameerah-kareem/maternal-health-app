@@ -54,7 +54,7 @@ selected = option_menu(
 )
 
 if selected == "Home":
-    st.title("Ameerah's Maternal Health Risk Predictor")
+    st.title("Maternal Health Risk Predictor")
     st.markdown("Use clinical data to assess the risk level of a pregnant individual.")
 
     col1, col2 = st.columns(2)
