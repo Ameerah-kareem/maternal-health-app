@@ -7,3 +7,4 @@ seaborn
 fpdf
 joblib
 scikit-learn
+streamlit-option-menu
