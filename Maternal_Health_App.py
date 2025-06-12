@@ -22,7 +22,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 model = joblib.load("best_rf_model.pkl")
-df = pd.read_csv(r"C:\Users\Ameerah\Downloads\Maternal Health Risk Data Set.csv")
+df = pd.read_csv("maternal_data.csv")
 
 st.image(r"C:\Users\Ameerah\Downloads\Images.M\maternal_logo.png", use_column_width=True)
 
