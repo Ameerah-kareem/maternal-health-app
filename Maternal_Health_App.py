@@ -24,7 +24,7 @@ st.markdown("""
 model = joblib.load("best_rf_model.pkl")
 df = pd.read_csv("maternal_data.csv")
 
-st.image(r"C:\Users\Ameerah\Downloads\Images.M\maternal_logo.png", use_column_width=True)
+st.image("images/maternal_logo.png", use_column_width=True)
 
 def generate_pdf_report(input_data, prediction_text):
     pdf = FPDF()
