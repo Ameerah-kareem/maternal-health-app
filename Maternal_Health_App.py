@@ -129,10 +129,10 @@ especially for antenatal clinics and community health workers in underserved reg
 This tool supports **SDG 3: Good Health & Well-being** and aligns with the theme: 
 **Data-Driven AI for Sustainable Healthcare**.
 
-- 👩🏽‍💻 **Developers**: Ameerah Kareem and Eugene  
-- 🏛️ **Institution**: Caleb University  
+- 👩🏽‍💻 **Developers**: Ameerah Kareem  
 - 📌 **Category**: Data and AI for Impact
 """)
 
 st.markdown("---")
-st.markdown("<center style='color: gray;'>Made with 💙 by Ameerah and Eugene | Powered by Streamlit + scikit-learn</center>", unsafe_allow_html=True)
+st.markdown("<center style='color: gray;'>Made with 💙 by Ameerah | Powered by Streamlit + scikit-learn</center>", unsafe_allow_html=True)
+
